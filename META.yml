@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               MojoX-Session-Store-MongoDB
-version:            0.50
+version:            0.51
 abstract:           MongoDB Store for MojoX::Session
 author:
     - Ask Bjørn Hansen <ask@develooper.com>
@@ -13,6 +13,7 @@ build_requires:
 requires:
     Data::Dumper:      0
     Mojo:              0.991251
+    MojoX::Session:    0.15
     MongoDB:           0
     namespace::clean:  0
     Test::More:        0
