@@ -1,10 +1,10 @@
 --- #YAML:1.0
 name:               MojoX-Session-Store-MongoDB
-version:            0.51
+version:            0.52
 abstract:           MongoDB Store for MojoX::Session
 author:
     - Ask Bjørn Hansen <ask@develooper.com>
-license:            unknown
+license:            perl
 distribution_type:  module
 configure_requires:
     ExtUtils::MakeMaker:  0
